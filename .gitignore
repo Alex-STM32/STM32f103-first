@@ -1,0 +1,16 @@
+# Build output
+cmake-build-*/
+
+# CLion / IDE
+.idea/
+*.iml
+cmake-build-debug/
+
+# CubeIDE generated
+.cproject
+.project
+.mxproject
+
+# Windows
+Thumbs.db
+Desktop.ini

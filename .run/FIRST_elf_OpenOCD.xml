@@ -1,0 +1,16 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="FIRST.elf (OpenOCD)" type="openocd.core" factoryName="OpenOCD Download &amp; Run" nameIsGenerated="false">
+    <option name="EXECUTABLE_PATH" value="$PROJECT_DIR$/cmake-build-debug/FIRST.elf" />
+    <option name="TARGET" value="FIRST.elf" />
+    <option name="BOARD_CONFIG" value="D:/ST/Clion/CFJ_STM32/stm32f1.cfg" />
+    <option name="DEBUGGER_PATH" value="D:/ST/Clion/arm/bin/arm-none-eabi-gdb.exe" />
+    <option name="OPENOCD_PATH" value="D:/OpenOCD/OpenOCD/bin/openocd.exe" />
+    <option name="GDB_PORT" value="3333" />
+    <option name="TELNET_PORT" value="4444" />
+    <option name="DOWNLOAD_MODE" value="IF_MODIFIED" />
+    <option name="RESET_MODE" value="INIT" />
+    <method v="2">
+      <option name="Build" enabled="true" />
+    </method>
+  </configuration>
+</component>
